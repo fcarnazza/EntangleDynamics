@@ -1,0 +1,1536 @@
+Pauli operator IIII 0
+Pauli operator IIII 0.0158109
+Pauli operator IIIX 0.0259864
+Pauli operator IIIX 0.151239
+Pauli operator IIIY 0.0930918
+Pauli operator IIIY 0.0316375
+Pauli operator IIIZ 0.134869
+Pauli operator IIIZ 0.145331
+Pauli operator IIXI 0.0537313
+Pauli operator IIXI 0.0729786
+Pauli operator IIXX 0.0486698
+Pauli operator IIXX 0.0484102
+Pauli operator IIXY 0.0247502
+Pauli operator IIXY 0.0481684
+Pauli operator IIXZ 0.0493226
+Pauli operator IIXZ 0.146058
+Pauli operator IIYI 0.00705852
+Pauli operator IIYI 0.0497719
+Pauli operator IIYX 0.00971093
+Pauli operator IIYX 0.00595533
+Pauli operator IIYY 0.0653724
+Pauli operator IIYY 0.0419031
+Pauli operator IIYZ 0.0162054
+Pauli operator IIYZ 0.0598771
+Pauli operator IIZI 0.180875
+Pauli operator IIZI 0.0522849
+Pauli operator IIZX 0.087769
+Pauli operator IIZX 0.201702
+Pauli operator IIZY 0.0330943
+Pauli operator IIZY 0.0608649
+Pauli operator IIZZ 0.0756299
+Pauli operator IIZZ 0.0217896
+Pauli operator IXII 0.140814
+Pauli operator IXII 0.0331471
+Pauli operator IXIX 0.0813376
+Pauli operator IXIX 0.112279
+Pauli operator IXIY 0.0987851
+Pauli operator IXIY 0.0693879
+Pauli operator IXIZ 0.0119851
+Pauli operator IXIZ 0.103437
+Pauli operator IXXI 0.031535
+Pauli operator IXXI 0.151522
+Pauli operator IXXX 0.0176822
+Pauli operator IXXX 0.0403759
+Pauli operator IXXY 0.0645196
+Pauli operator IXXY 0.0177306
+Pauli operator IXXZ 0.0305915
+Pauli operator IXXZ 0.107128
+Pauli operator IXYI 0.0660513
+Pauli operator IXYI 0.0358212
+Pauli operator IXYX 0.0397748
+Pauli operator IXYX 0.0476849
+Pauli operator IXYY 0.0591827
+Pauli operator IXYY 0.0176489
+Pauli operator IXYZ 0.179007
+Pauli operator IXYZ 0.014038
+Pauli operator IXZI 0.0370138
+Pauli operator IXZI 0.10605
+Pauli operator IXZX 0.026289
+Pauli operator IXZX 0.024807
+Pauli operator IXZY 0.126831
+Pauli operator IXZY 0.0369016
+Pauli operator IXZZ 0.0553814
+Pauli operator IXZZ 0.230204
+Pauli operator IYII 0.030804
+Pauli operator IYII 0.0234881
+Pauli operator IYIX 0.178469
+Pauli operator IYIX 0.0158347
+Pauli operator IYIY 0.0207392
+Pauli operator IYIY 0.0674684
+Pauli operator IYIZ 0.0564492
+Pauli operator IYIZ 0.19402
+Pauli operator IYXI 0.0519502
+Pauli operator IYXI 0.116418
+Pauli operator IYXX 0.0222252
+Pauli operator IYXX 0.0836923
+Pauli operator IYXY 0.00665098
+Pauli operator IYXY 0.0271693
+Pauli operator IYXZ 0.11838
+Pauli operator IYXZ 0.0151623
+Pauli operator IYYI 0.1434
+Pauli operator IYYI 0.0837245
+Pauli operator IYYX 0.0134384
+Pauli operator IYYX 0.0425077
+Pauli operator IYYY 0.0156104
+Pauli operator IYYY 0.0138378
+Pauli operator IYYZ 0.0169248
+Pauli operator IYYZ 0.021557
+Pauli operator IYZI 0.0602439
+Pauli operator IYZI 0.0397347
+Pauli operator IYZX 0.189834
+Pauli operator IYZX 0.0877148
+Pauli operator IYZY 0.0747421
+Pauli operator IYZY 0.0750702
+Pauli operator IYZZ 0.0149073
+Pauli operator IYZZ 0.0491079
+Pauli operator IZII 0.0763465
+Pauli operator IZII 0.0509158
+Pauli operator IZIX 0.049893
+Pauli operator IZIX 0.185447
+Pauli operator IZIY 0.105552
+Pauli operator IZIY 0.0442697
+Pauli operator IZIZ 0.0368874
+Pauli operator IZIZ 0.11595
+Pauli operator IZXI 0.0282675
+Pauli operator IZXI 0.086464
+Pauli operator IZXX 0.0664521
+Pauli operator IZXX 0.094731
+Pauli operator IZXY 0.127533
+Pauli operator IZXY 0.0440144
+Pauli operator IZXZ 0.117627
+Pauli operator IZXZ 0.158397
+Pauli operator IZYI 0.0239913
+Pauli operator IZYI 0.030599
+Pauli operator IZYX 0.183239
+Pauli operator IZYX 0.0649758
+Pauli operator IZYY 0.100433
+Pauli operator IZYY 0.0384261
+Pauli operator IZYZ 0.0247503
+Pauli operator IZYZ 0.0346019
+Pauli operator IZZI 0.0468269
+Pauli operator IZZI 0.137227
+Pauli operator IZZX 0.0409595
+Pauli operator IZZX 0.00748444
+Pauli operator IZZY 0.0114077
+Pauli operator IZZY 0.0463855
+Pauli operator IZZZ 0.195487
+Pauli operator IZZZ 0.0329509
+Pauli operator XIII 0.0324377
+Pauli operator XIII 0.138952
+Pauli operator XIIX 0.0149502
+Pauli operator XIIX 0.0148241
+Pauli operator XIIY 0.00763234
+Pauli operator XIIY 0.00815712
+Pauli operator XIIZ 0.0300118
+Pauli operator XIIZ 0.0340917
+Pauli operator XIXI 0.0292468
+Pauli operator XIXI 0.0973151
+Pauli operator XIXX 0.0389908
+Pauli operator XIXX 0.18093
+Pauli operator XIXY 0.0336768
+Pauli operator XIXY 0.0836447
+Pauli operator XIXZ 0.0383933
+Pauli operator XIXZ 0.0128119
+Pauli operator XIYI 0.0173078
+Pauli operator XIYI 0.0949029
+Pauli operator XIYX 0.0568244
+Pauli operator XIYX 0.0919156
+Pauli operator XIYY 0.0568771
+Pauli operator XIYY 0.0351931
+Pauli operator XIYZ 0.106972
+Pauli operator XIYZ 0.0237521
+Pauli operator XIZI 0.0204699
+Pauli operator XIZI 0.0879717
+Pauli operator XIZX 0.0824625
+Pauli operator XIZX 0.0276986
+Pauli operator XIZY 0.112061
+Pauli operator XIZY 0.0854462
+Pauli operator XIZZ 0.0149646
+Pauli operator XIZZ 0.113283
+Pauli operator XXII 0.0645709
+Pauli operator XXII 0.0289239
+Pauli operator XXIX 0.0236273
+Pauli operator XXIX 0.0633218
+Pauli operator XXIY 0.0369637
+Pauli operator XXIY 0.139665
+Pauli operator XXIZ 0.0301168
+Pauli operator XXIZ 0.0933496
+Pauli operator XXXI 0.0305856
+Pauli operator XXXI 0.033099
+Pauli operator XXXX 0.0142259
+Pauli operator XXXX 0.0270088
+Pauli operator XXXY 0.069422
+Pauli operator XXXY 0.0530209
+Pauli operator XXXZ 0.0209743
+Pauli operator XXXZ 0.0644644
+Pauli operator XXYI 0.0148637
+Pauli operator XXYI 0.0906716
+Pauli operator XXYX 0.0195122
+Pauli operator XXYX 0.0375468
+Pauli operator XXYY 0.0331077
+Pauli operator XXYY 0.00796765
+Pauli operator XXYZ 0.0295584
+Pauli operator XXYZ 0.00734463
+Pauli operator XXZI 0.111761
+Pauli operator XXZI 0.0818209
+Pauli operator XXZX 0.0848677
+Pauli operator XXZX 0.0064094
+Pauli operator XXZY 0.0124886
+Pauli operator XXZY 0.0822308
+Pauli operator XXZZ 0.0321784
+Pauli operator XXZZ 0.0330832
+Pauli operator XYII 0.0542512
+Pauli operator XYII 0.0176332
+Pauli operator XYIX 0.0145019
+Pauli operator XYIX 0.179044
+Pauli operator XYIY 0.0624471
+Pauli operator XYIY 0.0263675
+Pauli operator XYIZ 0.220849
+Pauli operator XYIZ 0.100604
+Pauli operator XYXI 0.0370882
+Pauli operator XYXI 0.134698
+Pauli operator XYXX 0.0307086
+Pauli operator XYXX 0.0813333
+Pauli operator XYXY 0.0380908
+Pauli operator XYXY 0.0399349
+Pauli operator XYXZ 0.102758
+Pauli operator XYXZ 0.192772
+Pauli operator XYYI 0.0470004
+Pauli operator XYYI 0.265608
+Pauli operator XYYX 0.0557062
+Pauli operator XYYX 0.0429843
+Pauli operator XYYY 0.019187
+Pauli operator XYYY 0.0597267
+Pauli operator XYYZ 0.0032928
+Pauli operator XYYZ 0.0402824
+Pauli operator XYZI 0.213057
+Pauli operator XYZI 0.0317948
+Pauli operator XYZX 0.0332096
+Pauli operator XYZX 0.310358
+Pauli operator XYZY 0.0279114
+Pauli operator XYZY 0.0940598
+Pauli operator XYZZ 0.0210515
+Pauli operator XYZZ 0.0277482
+Pauli operator XZII 0.139529
+Pauli operator XZII 0.0928311
+Pauli operator XZIX 0.311717
+Pauli operator XZIX 0.0693938
+Pauli operator XZIY 0.0909241
+Pauli operator XZIY 0.0478616
+Pauli operator XZIZ 0.0357226
+Pauli operator XZIZ 0.149762
+Pauli operator XZXI 0.0790918
+Pauli operator XZXI 0.0657456
+Pauli operator XZXX 0.00830069
+Pauli operator XZXX 0.0114617
+Pauli operator XZXY 0.0757482
+Pauli operator XZXY 0.0700726
+Pauli operator XZXZ 0.13141
+Pauli operator XZXZ 0.0736219
+Pauli operator XZYI 0.104771
+Pauli operator XZYI 0.0715199
+Pauli operator XZYX 0.0200573
+Pauli operator XZYX 0.277329
+Pauli operator XZYY 0.0144728
+Pauli operator XZYY 0.0266774
+Pauli operator XZYZ 0.199316
+Pauli operator XZYZ 0.0329412
+Pauli operator XZZI 0.0189928
+Pauli operator XZZI 0.0653971
+Pauli operator XZZX 0.0467706
+Pauli operator XZZX 0.0483178
+Pauli operator XZZY 0.167523
+Pauli operator XZZY 0.106199
+Pauli operator XZZZ 0.0662298
+Pauli operator XZZZ 0.503933
+Pauli operator YIII 
+Pauli operator YIII 
+Pauli operator YIIX 
+Pauli operator YIIX 
+Pauli operator YIIY 
+Pauli operator YIIY 
+Pauli operator YIIZ 
+Pauli operator YIIZ 
+Pauli operator YIXI 
+Pauli operator YIXI 
+Pauli operator YIXX 
+Pauli operator YIXX 
+Pauli operator YIXY 
+Pauli operator YIXY 
+Pauli operator YIXZ 
+Pauli operator YIXZ 
+Pauli operator YIYI 
+Pauli operator YIYI 
+Pauli operator YIYX 
+Pauli operator YIYX 
+Pauli operator YIYY 
+Pauli operator YIYY 
+Pauli operator YIYZ 
+Pauli operator YIYZ 
+Pauli operator YIZI 
+Pauli operator YIZI 
+Pauli operator YIZX 
+Pauli operator YIZX 
+Pauli operator YIZY 
+Pauli operator YIZY 
+Pauli operator YIZZ 
+Pauli operator YIZZ 
+Pauli operator YXII 
+Pauli operator YXII 
+Pauli operator YXIX 
+Pauli operator YXIX 
+Pauli operator YXIY 
+Pauli operator YXIY 
+Pauli operator YXIZ 
+Pauli operator YXIZ 
+Pauli operator YXXI 
+Pauli operator YXXI 
+Pauli operator YXXX 
+Pauli operator YXXX 
+Pauli operator YXXY 
+Pauli operator YXXY 
+Pauli operator YXXZ 
+Pauli operator YXXZ 
+Pauli operator YXYI 
+Pauli operator YXYI 
+Pauli operator YXYX 
+Pauli operator YXYX 
+Pauli operator YXYY 
+Pauli operator YXYY 
+Pauli operator YXYZ 
+Pauli operator YXYZ 
+Pauli operator YXZI 
+Pauli operator YXZI 
+Pauli operator YXZX 
+Pauli operator YXZX 
+Pauli operator YXZY 
+Pauli operator YXZY 
+Pauli operator YXZZ 
+Pauli operator YXZZ 
+Pauli operator YYII 
+Pauli operator YYII 
+Pauli operator YYIX 
+Pauli operator YYIX 
+Pauli operator YYIY 
+Pauli operator YYIY 
+Pauli operator YYIZ 
+Pauli operator YYIZ 
+Pauli operator YYXI 
+Pauli operator YYXI 
+Pauli operator YYXX 
+Pauli operator YYXX 
+Pauli operator YYXY 
+Pauli operator YYXY 
+Pauli operator YYXZ 
+Pauli operator YYXZ 
+Pauli operator YYYI 
+Pauli operator YYYI 
+Pauli operator YYYX 
+Pauli operator YYYX 
+Pauli operator YYYY 
+Pauli operator YYYY 
+Pauli operator YYYZ 
+Pauli operator YYYZ 
+Pauli operator YYZI 
+Pauli operator YYZI 
+Pauli operator YYZX 
+Pauli operator YYZX 
+Pauli operator YYZY 
+Pauli operator YYZY 
+Pauli operator YYZZ 
+Pauli operator YYZZ 
+Pauli operator YZII 
+Pauli operator YZII 
+Pauli operator YZIX 
+Pauli operator YZIX 
+Pauli operator YZIY 
+Pauli operator YZIY 
+Pauli operator YZIZ 
+Pauli operator YZIZ 
+Pauli operator YZXI 
+Pauli operator YZXI 
+Pauli operator YZXX 
+Pauli operator YZXX 
+Pauli operator YZXY 
+Pauli operator YZXY 
+Pauli operator YZXZ 
+Pauli operator YZXZ 
+Pauli operator YZYI 
+Pauli operator YZYI 
+Pauli operator YZYX 
+Pauli operator YZYX 
+Pauli operator YZYY 
+Pauli operator YZYY 
+Pauli operator YZYZ 
+Pauli operator YZYZ 
+Pauli operator YZZI 
+Pauli operator YZZI 
+Pauli operator YZZX 
+Pauli operator YZZX 
+Pauli operator YZZY 
+Pauli operator YZZY 
+Pauli operator YZZZ 
+Pauli operator YZZZ 
+Pauli operator ZIII 
+Pauli operator ZIII 
+Pauli operator ZIIX 
+Pauli operator ZIIX 
+Pauli operator ZIIY 
+Pauli operator ZIIY 
+Pauli operator ZIIZ 
+Pauli operator ZIIZ 
+Pauli operator ZIXI 
+Pauli operator ZIXI 
+Pauli operator ZIXX 
+Pauli operator ZIXX 
+Pauli operator ZIXY 
+Pauli operator ZIXY 
+Pauli operator ZIXZ 
+Pauli operator ZIXZ 
+Pauli operator ZIYI 
+Pauli operator ZIYI 
+Pauli operator ZIYX 
+Pauli operator ZIYX 
+Pauli operator ZIYY 
+Pauli operator ZIYY 
+Pauli operator ZIYZ 
+Pauli operator ZIYZ 
+Pauli operator ZIZI 
+Pauli operator ZIZI 
+Pauli operator ZIZX 
+Pauli operator ZIZX 
+Pauli operator ZIZY 
+Pauli operator ZIZY 
+Pauli operator ZIZZ 
+Pauli operator ZIZZ 
+Pauli operator ZXII 
+Pauli operator ZXII 
+Pauli operator ZXIX 
+Pauli operator ZXIX 
+Pauli operator ZXIY 
+Pauli operator ZXIY 
+Pauli operator ZXIZ 
+Pauli operator ZXIZ 
+Pauli operator ZXXI 
+Pauli operator ZXXI 
+Pauli operator ZXXX 
+Pauli operator ZXXX 
+Pauli operator ZXXY 
+Pauli operator ZXXY 
+Pauli operator ZXXZ 
+Pauli operator ZXXZ 
+Pauli operator ZXYI 
+Pauli operator ZXYI 
+Pauli operator ZXYX 
+Pauli operator ZXYX 
+Pauli operator ZXYY 
+Pauli operator ZXYY 
+Pauli operator ZXYZ 
+Pauli operator ZXYZ 
+Pauli operator ZXZI 
+Pauli operator ZXZI 
+Pauli operator ZXZX 
+Pauli operator ZXZX 
+Pauli operator ZXZY 
+Pauli operator ZXZY 
+Pauli operator ZXZZ 
+Pauli operator ZXZZ 
+Pauli operator ZYII 
+Pauli operator ZYII 
+Pauli operator ZYIX 
+Pauli operator ZYIX 
+Pauli operator ZYIY 
+Pauli operator ZYIY 
+Pauli operator ZYIZ 
+Pauli operator ZYIZ 
+Pauli operator ZYXI 
+Pauli operator ZYXI 
+Pauli operator ZYXX 
+Pauli operator ZYXX 
+Pauli operator ZYXY 
+Pauli operator ZYXY 
+Pauli operator ZYXZ 
+Pauli operator ZYXZ 
+Pauli operator ZYYI 
+Pauli operator ZYYI 
+Pauli operator ZYYX 
+Pauli operator ZYYX 
+Pauli operator ZYYY 
+Pauli operator ZYYY 
+Pauli operator ZYYZ 
+Pauli operator ZYYZ 
+Pauli operator ZYZI 
+Pauli operator ZYZI 
+Pauli operator ZYZX 
+Pauli operator ZYZX 
+Pauli operator ZYZY 
+Pauli operator ZYZY 
+Pauli operator ZYZZ 
+Pauli operator ZYZZ 
+Pauli operator ZZII 
+Pauli operator ZZII 
+Pauli operator ZZIX 
+Pauli operator ZZIX 
+Pauli operator ZZIY 
+Pauli operator ZZIY 
+Pauli operator ZZIZ 
+Pauli operator ZZIZ 
+Pauli operator ZZXI 
+Pauli operator ZZXI 
+Pauli operator ZZXX 
+Pauli operator ZZXX 
+Pauli operator ZZXY 
+Pauli operator ZZXY 
+Pauli operator ZZXZ 
+Pauli operator ZZXZ 
+Pauli operator ZZYI 
+Pauli operator ZZYI 
+Pauli operator ZZYX 
+Pauli operator ZZYX 
+Pauli operator ZZYY 
+Pauli operator ZZYY 
+Pauli operator ZZYZ 
+Pauli operator ZZYZ 
+Pauli operator ZZZI 
+Pauli operator ZZZI 
+Pauli operator ZZZX 
+Pauli operator ZZZX 
+Pauli operator ZZZY 
+Pauli operator ZZZY 
+Pauli operator ZZZZ 
+Pauli operator ZZZZ 
+Pauli operator IIII 
+Pauli operator IIIX 
+Pauli operator IIIY 
+Pauli operator IIIZ 
+Pauli operator IIXI 
+Pauli operator IIXX 
+Pauli operator IIXY 
+Pauli operator IIXZ 
+Pauli operator IIYI 
+Pauli operator IIYX 
+Pauli operator IIYY 
+Pauli operator IIYZ 
+Pauli operator IIZI 
+Pauli operator IIZX 
+Pauli operator IIZY 
+Pauli operator IIZZ 
+Pauli operator IXII 
+Pauli operator IXIX 
+Pauli operator IXIY 
+Pauli operator IXIZ 
+Pauli operator IXXI 
+Pauli operator IXXX 
+Pauli operator IXXY 
+Pauli operator IXXZ 
+Pauli operator IXYI 
+Pauli operator IXYX 
+Pauli operator IXYY 
+Pauli operator IXYZ 
+Pauli operator IXZI 
+Pauli operator IXZX 
+Pauli operator IXZY 
+Pauli operator IXZZ 
+Pauli operator IYII 
+Pauli operator IYIX 
+Pauli operator IYIY 
+Pauli operator IYIZ 
+Pauli operator IYXI 
+Pauli operator IYXX 
+Pauli operator IYXY 
+Pauli operator IYXZ 
+Pauli operator IYYI 
+Pauli operator IYYX 
+Pauli operator IYYY 
+Pauli operator IYYZ 
+Pauli operator IYZI 
+Pauli operator IYZX 
+Pauli operator IYZY 
+Pauli operator IYZZ 
+Pauli operator IZII 
+Pauli operator IZIX 
+Pauli operator IZIY 
+Pauli operator IZIZ 
+Pauli operator IZXI 
+Pauli operator IZXX 
+Pauli operator IZXY 
+Pauli operator IZXZ 
+Pauli operator IZYI 
+Pauli operator IZYX 
+Pauli operator IZYY 
+Pauli operator IZYZ 
+Pauli operator IZZI 
+Pauli operator IZZX 
+Pauli operator IZZY 
+Pauli operator IZZZ 
+Pauli operator XIII 
+Pauli operator XIIX 
+Pauli operator XIIY 
+Pauli operator XIIZ 
+Pauli operator XIXI 
+Pauli operator XIXX 
+Pauli operator XIXY 
+Pauli operator XIXZ 
+Pauli operator XIYI 
+Pauli operator XIYX 
+Pauli operator XIYY 
+Pauli operator XIYZ 
+Pauli operator XIZI 
+Pauli operator XIZX 
+Pauli operator XIZY 
+Pauli operator XIZZ 
+Pauli operator XXII 
+Pauli operator XXIX 
+Pauli operator XXIY 
+Pauli operator XXIZ 
+Pauli operator XXXI 
+Pauli operator XXXX 
+Pauli operator XXXY 
+Pauli operator XXXZ 
+Pauli operator XXYI 
+Pauli operator XXYX 
+Pauli operator XXYY 
+Pauli operator XXYZ 
+Pauli operator XXZI 
+Pauli operator XXZX 
+Pauli operator XXZY 
+Pauli operator XXZZ 
+Pauli operator XYII 
+Pauli operator XYIX 
+Pauli operator XYIY 
+Pauli operator XYIZ 
+Pauli operator XYXI 
+Pauli operator XYXX 
+Pauli operator XYXY 
+Pauli operator XYXZ 
+Pauli operator XYYI 
+Pauli operator XYYX 
+Pauli operator XYYY 
+Pauli operator XYYZ 
+Pauli operator XYZI 
+Pauli operator XYZX 
+Pauli operator XYZY 
+Pauli operator XYZZ 
+Pauli operator XZII 
+Pauli operator XZIX 
+Pauli operator XZIY 
+Pauli operator XZIZ 
+Pauli operator XZXI 
+Pauli operator XZXX 
+Pauli operator XZXY 
+Pauli operator XZXZ 
+Pauli operator XZYI 
+Pauli operator XZYX 
+Pauli operator XZYY 
+Pauli operator XZYZ 
+Pauli operator XZZI 
+Pauli operator XZZX 
+Pauli operator XZZY 
+Pauli operator XZZZ 
+Pauli operator YIII 
+Pauli operator YIIX 
+Pauli operator YIIY 
+Pauli operator YIIZ 
+Pauli operator YIXI 
+Pauli operator YIXX 
+Pauli operator YIXY 
+Pauli operator YIXZ 
+Pauli operator YIYI 
+Pauli operator YIYX 
+Pauli operator YIYY 
+Pauli operator YIYZ 
+Pauli operator YIZI 
+Pauli operator YIZX 
+Pauli operator YIZY 
+Pauli operator YIZZ 
+Pauli operator YXII 
+Pauli operator YXIX 
+Pauli operator YXIY 
+Pauli operator YXIZ 
+Pauli operator YXXI 
+Pauli operator YXXX 
+Pauli operator YXXY 
+Pauli operator YXXZ 
+Pauli operator YXYI 
+Pauli operator YXYX 
+Pauli operator YXYY 
+Pauli operator YXYZ 
+Pauli operator YXZI 
+Pauli operator YXZX 
+Pauli operator YXZY 
+Pauli operator YXZZ 
+Pauli operator YYII 
+Pauli operator YYIX 
+Pauli operator YYIY 
+Pauli operator YYIZ 
+Pauli operator YYXI 
+Pauli operator YYXX 
+Pauli operator YYXY 
+Pauli operator YYXZ 
+Pauli operator YYYI 
+Pauli operator YYYX 
+Pauli operator YYYY 
+Pauli operator YYYZ 
+Pauli operator YYZI 
+Pauli operator YYZX 
+Pauli operator YYZY 
+Pauli operator YYZZ 
+Pauli operator YZII 
+Pauli operator YZIX 
+Pauli operator YZIY 
+Pauli operator YZIZ 
+Pauli operator YZXI 
+Pauli operator YZXX 
+Pauli operator YZXY 
+Pauli operator YZXZ 
+Pauli operator YZYI 
+Pauli operator YZYX 
+Pauli operator YZYY 
+Pauli operator YZYZ 
+Pauli operator YZZI 
+Pauli operator YZZX 
+Pauli operator YZZY 
+Pauli operator YZZZ 
+Pauli operator ZIII 
+Pauli operator ZIIX 
+Pauli operator ZIIY 
+Pauli operator ZIIZ 
+Pauli operator ZIXI 
+Pauli operator ZIXX 
+Pauli operator ZIXY 
+Pauli operator ZIXZ 
+Pauli operator ZIYI 
+Pauli operator ZIYX 
+Pauli operator ZIYY 
+Pauli operator ZIYZ 
+Pauli operator ZIZI 
+Pauli operator ZIZX 
+Pauli operator ZIZY 
+Pauli operator ZIZZ 
+Pauli operator ZXII 
+Pauli operator ZXIX 
+Pauli operator ZXIY 
+Pauli operator ZXIZ 
+Pauli operator ZXXI 
+Pauli operator ZXXX 
+Pauli operator ZXXY 
+Pauli operator ZXXZ 
+Pauli operator ZXYI 
+Pauli operator ZXYX 
+Pauli operator ZXYY 
+Pauli operator ZXYZ 
+Pauli operator ZXZI 
+Pauli operator ZXZX 
+Pauli operator ZXZY 
+Pauli operator ZXZZ 
+Pauli operator ZYII 
+Pauli operator ZYIX 
+Pauli operator ZYIY 
+Pauli operator ZYIZ 
+Pauli operator ZYXI 
+Pauli operator ZYXX 
+Pauli operator ZYXY 
+Pauli operator ZYXZ 
+Pauli operator ZYYI 
+Pauli operator ZYYX 
+Pauli operator ZYYY 
+Pauli operator ZYYZ 
+Pauli operator ZYZI 
+Pauli operator ZYZX 
+Pauli operator ZYZY 
+Pauli operator ZYZZ 
+Pauli operator ZZII 
+Pauli operator ZZIX 
+Pauli operator ZZIY 
+Pauli operator ZZIZ 
+Pauli operator ZZXI 
+Pauli operator ZZXX 
+Pauli operator ZZXY 
+Pauli operator ZZXZ 
+Pauli operator ZZYI 
+Pauli operator ZZYX 
+Pauli operator ZZYY 
+Pauli operator ZZYZ 
+Pauli operator ZZZI 
+Pauli operator ZZZX 
+Pauli operator ZZZY 
+Pauli operator ZZZZ 
+Pauli operator IIII 
+Pauli operator IIIX 
+Pauli operator IIIY 
+Pauli operator IIIZ 
+Pauli operator IIXI 
+Pauli operator IIXX 
+Pauli operator IIXY 
+Pauli operator IIXZ 
+Pauli operator IIYI 
+Pauli operator IIYX 
+Pauli operator IIYY 
+Pauli operator IIYZ 
+Pauli operator IIZI 
+Pauli operator IIZX 
+Pauli operator IIZY 
+Pauli operator IIZZ 
+Pauli operator IXII 
+Pauli operator IXIX 
+Pauli operator IXIY 
+Pauli operator IXIZ 
+Pauli operator IXXI 
+Pauli operator IXXX 
+Pauli operator IXXY 
+Pauli operator IXXZ 
+Pauli operator IXYI 
+Pauli operator IXYX 
+Pauli operator IXYY 
+Pauli operator IXYZ 
+Pauli operator IXZI 
+Pauli operator IXZX 
+Pauli operator IXZY 
+Pauli operator IXZZ 
+Pauli operator IYII 
+Pauli operator IYIX 
+Pauli operator IYIY 
+Pauli operator IYIZ 
+Pauli operator IYXI 
+Pauli operator IYXX 
+Pauli operator IYXY 
+Pauli operator IYXZ 
+Pauli operator IYYI 
+Pauli operator IYYX 
+Pauli operator IYYY 
+Pauli operator IYYZ 
+Pauli operator IYZI 
+Pauli operator IYZX 
+Pauli operator IYZY 
+Pauli operator IYZZ 
+Pauli operator IZII 
+Pauli operator IZIX 
+Pauli operator IZIY 
+Pauli operator IZIZ 
+Pauli operator IZXI 
+Pauli operator IZXX 
+Pauli operator IZXY 
+Pauli operator IZXZ 
+Pauli operator IZYI 
+Pauli operator IZYX 
+Pauli operator IZYY 
+Pauli operator IZYZ 
+Pauli operator IZZI 
+Pauli operator IZZX 
+Pauli operator IZZY 
+Pauli operator IZZZ 
+Pauli operator XIII 
+Pauli operator XIIX 
+Pauli operator XIIY 
+Pauli operator XIIZ 
+Pauli operator XIXI 
+Pauli operator XIXX 
+Pauli operator XIXY 
+Pauli operator XIXZ 
+Pauli operator XIYI 
+Pauli operator XIYX 
+Pauli operator XIYY 
+Pauli operator XIYZ 
+Pauli operator XIZI 
+Pauli operator XIZX 
+Pauli operator XIZY 
+Pauli operator XIZZ 
+Pauli operator XXII 
+Pauli operator XXIX 
+Pauli operator XXIY 
+Pauli operator XXIZ 
+Pauli operator XXXI 
+Pauli operator XXXX 
+Pauli operator XXXY 
+Pauli operator XXXZ 
+Pauli operator XXYI 
+Pauli operator XXYX 
+Pauli operator XXYY 
+Pauli operator XXYZ 
+Pauli operator XXZI 
+Pauli operator XXZX 
+Pauli operator XXZY 
+Pauli operator XXZZ 
+Pauli operator XYII 
+Pauli operator XYIX 
+Pauli operator XYIY 
+Pauli operator XYIZ 
+Pauli operator XYXI 
+Pauli operator XYXX 
+Pauli operator XYXY 
+Pauli operator XYXZ 
+Pauli operator XYYI 
+Pauli operator XYYX 
+Pauli operator XYYY 
+Pauli operator XYYZ 
+Pauli operator XYZI 
+Pauli operator XYZX 
+Pauli operator XYZY 
+Pauli operator XYZZ 
+Pauli operator XZII 
+Pauli operator XZIX 
+Pauli operator XZIY 
+Pauli operator XZIZ 
+Pauli operator XZXI 
+Pauli operator XZXX 
+Pauli operator XZXY 
+Pauli operator XZXZ 
+Pauli operator XZYI 
+Pauli operator XZYX 
+Pauli operator XZYY 
+Pauli operator XZYZ 
+Pauli operator XZZI 
+Pauli operator XZZX 
+Pauli operator XZZY 
+Pauli operator XZZZ 
+Pauli operator YIII 
+Pauli operator YIIX 
+Pauli operator YIIY 
+Pauli operator YIIZ 
+Pauli operator YIXI 
+Pauli operator YIXX 
+Pauli operator YIXY 
+Pauli operator YIXZ 
+Pauli operator YIYI 
+Pauli operator YIYX 
+Pauli operator YIYY 
+Pauli operator YIYZ 
+Pauli operator YIZI 
+Pauli operator YIZX 
+Pauli operator YIZY 
+Pauli operator YIZZ 
+Pauli operator YXII 
+Pauli operator YXIX 
+Pauli operator YXIY 
+Pauli operator YXIZ 
+Pauli operator YXXI 
+Pauli operator YXXX 
+Pauli operator YXXY 
+Pauli operator YXXZ 
+Pauli operator YXYI 
+Pauli operator YXYX 
+Pauli operator YXYY 
+Pauli operator YXYZ 
+Pauli operator YXZI 
+Pauli operator YXZX 
+Pauli operator YXZY 
+Pauli operator YXZZ 
+Pauli operator YYII 
+Pauli operator YYIX 
+Pauli operator YYIY 
+Pauli operator YYIZ 
+Pauli operator YYXI 
+Pauli operator YYXX 
+Pauli operator YYXY 
+Pauli operator YYXZ 
+Pauli operator YYYI 
+Pauli operator YYYX 
+Pauli operator YYYY 
+Pauli operator YYYZ 
+Pauli operator YYZI 
+Pauli operator YYZX 
+Pauli operator YYZY 
+Pauli operator YYZZ 
+Pauli operator YZII 
+Pauli operator YZIX 
+Pauli operator YZIY 
+Pauli operator YZIZ 
+Pauli operator YZXI 
+Pauli operator YZXX 
+Pauli operator YZXY 
+Pauli operator YZXZ 
+Pauli operator YZYI 
+Pauli operator YZYX 
+Pauli operator YZYY 
+Pauli operator YZYZ 
+Pauli operator YZZI 
+Pauli operator YZZX 
+Pauli operator YZZY 
+Pauli operator YZZZ 
+Pauli operator ZIII 
+Pauli operator ZIIX 
+Pauli operator ZIIY 
+Pauli operator ZIIZ 
+Pauli operator ZIXI 
+Pauli operator ZIXX 
+Pauli operator ZIXY 
+Pauli operator ZIXZ 
+Pauli operator ZIYI 
+Pauli operator ZIYX 
+Pauli operator ZIYY 
+Pauli operator ZIYZ 
+Pauli operator ZIZI 
+Pauli operator ZIZX 
+Pauli operator ZIZY 
+Pauli operator ZIZZ 
+Pauli operator ZXII 
+Pauli operator ZXIX 
+Pauli operator ZXIY 
+Pauli operator ZXIZ 
+Pauli operator ZXXI 
+Pauli operator ZXXX 
+Pauli operator ZXXY 
+Pauli operator ZXXZ 
+Pauli operator ZXYI 
+Pauli operator ZXYX 
+Pauli operator ZXYY 
+Pauli operator ZXYZ 
+Pauli operator ZXZI 
+Pauli operator ZXZX 
+Pauli operator ZXZY 
+Pauli operator ZXZZ 
+Pauli operator ZYII 
+Pauli operator ZYIX 
+Pauli operator ZYIY 
+Pauli operator ZYIZ 
+Pauli operator ZYXI 
+Pauli operator ZYXX 
+Pauli operator ZYXY 
+Pauli operator ZYXZ 
+Pauli operator ZYYI 
+Pauli operator ZYYX 
+Pauli operator ZYYY 
+Pauli operator ZYYZ 
+Pauli operator ZYZI 
+Pauli operator ZYZX 
+Pauli operator ZYZY 
+Pauli operator ZYZZ 
+Pauli operator ZZII 
+Pauli operator ZZIX 
+Pauli operator ZZIY 
+Pauli operator ZZIZ 
+Pauli operator ZZXI 
+Pauli operator ZZXX 
+Pauli operator ZZXY 
+Pauli operator ZZXZ 
+Pauli operator ZZYI 
+Pauli operator ZZYX 
+Pauli operator ZZYY 
+Pauli operator ZZYZ 
+Pauli operator ZZZI 
+Pauli operator ZZZX 
+Pauli operator ZZZY 
+Pauli operator ZZZZ 
+Pauli operator IIII 
+Pauli operator IIIX 
+Pauli operator IIIY 
+Pauli operator IIIZ 
+Pauli operator IIXI 
+Pauli operator IIXX 
+Pauli operator IIXY 
+Pauli operator IIXZ 
+Pauli operator IIYI 
+Pauli operator IIYX 
+Pauli operator IIYY 
+Pauli operator IIYZ 
+Pauli operator IIZI 
+Pauli operator IIZX 
+Pauli operator IIZY 
+Pauli operator IIZZ 
+Pauli operator IXII 
+Pauli operator IXIX 
+Pauli operator IXIY 
+Pauli operator IXIZ 
+Pauli operator IXXI 
+Pauli operator IXXX 
+Pauli operator IXXY 
+Pauli operator IXXZ 
+Pauli operator IXYI 
+Pauli operator IXYX 
+Pauli operator IXYY 
+Pauli operator IXYZ 
+Pauli operator IXZI 
+Pauli operator IXZX 
+Pauli operator IXZY 
+Pauli operator IXZZ 
+Pauli operator IYII 
+Pauli operator IYIX 
+Pauli operator IYIY 
+Pauli operator IYIZ 
+Pauli operator IYXI 
+Pauli operator IYXX 
+Pauli operator IYXY 
+Pauli operator IYXZ 
+Pauli operator IYYI 
+Pauli operator IYYX 
+Pauli operator IYYY 
+Pauli operator IYYZ 
+Pauli operator IYZI 
+Pauli operator IYZX 
+Pauli operator IYZY 
+Pauli operator IYZZ 
+Pauli operator IZII 
+Pauli operator IZIX 
+Pauli operator IZIY 
+Pauli operator IZIZ 
+Pauli operator IZXI 
+Pauli operator IZXX 
+Pauli operator IZXY 
+Pauli operator IZXZ 
+Pauli operator IZYI 
+Pauli operator IZYX 
+Pauli operator IZYY 
+Pauli operator IZYZ 
+Pauli operator IZZI 
+Pauli operator IZZX 
+Pauli operator IZZY 
+Pauli operator IZZZ 
+Pauli operator XIII 
+Pauli operator XIIX 
+Pauli operator XIIY 
+Pauli operator XIIZ 
+Pauli operator XIXI 
+Pauli operator XIXX 
+Pauli operator XIXY 
+Pauli operator XIXZ 
+Pauli operator XIYI 
+Pauli operator XIYX 
+Pauli operator XIYY 
+Pauli operator XIYZ 
+Pauli operator XIZI 
+Pauli operator XIZX 
+Pauli operator XIZY 
+Pauli operator XIZZ 
+Pauli operator XXII 
+Pauli operator XXIX 
+Pauli operator XXIY 
+Pauli operator XXIZ 
+Pauli operator XXXI 
+Pauli operator XXXX 
+Pauli operator XXXY 
+Pauli operator XXXZ 
+Pauli operator XXYI 
+Pauli operator XXYX 
+Pauli operator XXYY 
+Pauli operator XXYZ 
+Pauli operator XXZI 
+Pauli operator XXZX 
+Pauli operator XXZY 
+Pauli operator XXZZ 
+Pauli operator XYII 
+Pauli operator XYIX 
+Pauli operator XYIY 
+Pauli operator XYIZ 
+Pauli operator XYXI 
+Pauli operator XYXX 
+Pauli operator XYXY 
+Pauli operator XYXZ 
+Pauli operator XYYI 
+Pauli operator XYYX 
+Pauli operator XYYY 
+Pauli operator XYYZ 
+Pauli operator XYZI 
+Pauli operator XYZX 
+Pauli operator XYZY 
+Pauli operator XYZZ 
+Pauli operator XZII 
+Pauli operator XZIX 
+Pauli operator XZIY 
+Pauli operator XZIZ 
+Pauli operator XZXI 
+Pauli operator XZXX 
+Pauli operator XZXY 
+Pauli operator XZXZ 
+Pauli operator XZYI 
+Pauli operator XZYX 
+Pauli operator XZYY 
+Pauli operator XZYZ 
+Pauli operator XZZI 
+Pauli operator XZZX 
+Pauli operator XZZY 
+Pauli operator XZZZ 
+Pauli operator YIII 
+Pauli operator YIIX 
+Pauli operator YIIY 
+Pauli operator YIIZ 
+Pauli operator YIXI 
+Pauli operator YIXX 
+Pauli operator YIXY 
+Pauli operator YIXZ 
+Pauli operator YIYI 
+Pauli operator YIYX 
+Pauli operator YIYY 
+Pauli operator YIYZ 
+Pauli operator YIZI 
+Pauli operator YIZX 
+Pauli operator YIZY 
+Pauli operator YIZZ 
+Pauli operator YXII 
+Pauli operator YXIX 
+Pauli operator YXIY 
+Pauli operator YXIZ 
+Pauli operator YXXI 
+Pauli operator YXXX 
+Pauli operator YXXY 
+Pauli operator YXXZ 
+Pauli operator YXYI 
+Pauli operator YXYX 
+Pauli operator YXYY 
+Pauli operator YXYZ 
+Pauli operator YXZI 
+Pauli operator YXZX 
+Pauli operator YXZY 
+Pauli operator YXZZ 
+Pauli operator YYII 
+Pauli operator YYIX 
+Pauli operator YYIY 
+Pauli operator YYIZ 
+Pauli operator YYXI 
+Pauli operator YYXX 
+Pauli operator YYXY 
+Pauli operator YYXZ 
+Pauli operator YYYI 
+Pauli operator YYYX 
+Pauli operator YYYY 
+Pauli operator YYYZ 
+Pauli operator YYZI 
+Pauli operator YYZX 
+Pauli operator YYZY 
+Pauli operator YYZZ 
+Pauli operator YZII 
+Pauli operator YZIX 
+Pauli operator YZIY 
+Pauli operator YZIZ 
+Pauli operator YZXI 
+Pauli operator YZXX 
+Pauli operator YZXY 
+Pauli operator YZXZ 
+Pauli operator YZYI 
+Pauli operator YZYX 
+Pauli operator YZYY 
+Pauli operator YZYZ 
+Pauli operator YZZI 
+Pauli operator YZZX 
+Pauli operator YZZY 
+Pauli operator YZZZ 
+Pauli operator ZIII 
+Pauli operator ZIIX 
+Pauli operator ZIIY 
+Pauli operator ZIIZ 
+Pauli operator ZIXI 
+Pauli operator ZIXX 
+Pauli operator ZIXY 
+Pauli operator ZIXZ 
+Pauli operator ZIYI 
+Pauli operator ZIYX 
+Pauli operator ZIYY 
+Pauli operator ZIYZ 
+Pauli operator ZIZI 
+Pauli operator ZIZX 
+Pauli operator ZIZY 
+Pauli operator ZIZZ 
+Pauli operator ZXII 
+Pauli operator ZXIX 
+Pauli operator ZXIY 
+Pauli operator ZXIZ 
+Pauli operator ZXXI 
+Pauli operator ZXXX 
+Pauli operator ZXXY 
+Pauli operator ZXXZ 
+Pauli operator ZXYI 
+Pauli operator ZXYX 
+Pauli operator ZXYY 
+Pauli operator ZXYZ 
+Pauli operator ZXZI 
+Pauli operator ZXZX 
+Pauli operator ZXZY 
+Pauli operator ZXZZ 
+Pauli operator ZYII 
+Pauli operator ZYIX 
+Pauli operator ZYIY 
+Pauli operator ZYIZ 
+Pauli operator ZYXI 
+Pauli operator ZYXX 
+Pauli operator ZYXY 
+Pauli operator ZYXZ 
+Pauli operator ZYYI 
+Pauli operator ZYYX 
+Pauli operator ZYYY 
+Pauli operator ZYYZ 
+Pauli operator ZYZI 
+Pauli operator ZYZX 
+Pauli operator ZYZY 
+Pauli operator ZYZZ 
+Pauli operator ZZII 
+Pauli operator ZZIX 
+Pauli operator ZZIY 
+Pauli operator ZZIZ 
+Pauli operator ZZXI 
+Pauli operator ZZXX 
+Pauli operator ZZXY 
+Pauli operator ZZXZ 
+Pauli operator ZZYI 
+Pauli operator ZZYX 
+Pauli operator ZZYY 
+Pauli operator ZZYZ 
+Pauli operator ZZZI 
+Pauli operator ZZZX 
+Pauli operator ZZZY 
+Pauli operator ZZZZ 
+Pauli operator IIII 
+Pauli operator IIIX 
+Pauli operator IIIY 
+Pauli operator IIIZ 
+Pauli operator IIXI 
+Pauli operator IIXX 
+Pauli operator IIXY 
+Pauli operator IIXZ 
+Pauli operator IIYI 
+Pauli operator IIYX 
+Pauli operator IIYY 
+Pauli operator IIYZ 
+Pauli operator IIZI 
+Pauli operator IIZX 
+Pauli operator IIZY 
+Pauli operator IIZZ 
+Pauli operator IXII 
+Pauli operator IXIX 
+Pauli operator IXIY 
+Pauli operator IXIZ 
+Pauli operator IXXI 
+Pauli operator IXXX 
+Pauli operator IXXY 
+Pauli operator IXXZ 
+Pauli operator IXYI 
+Pauli operator IXYX 
+Pauli operator IXYY 
+Pauli operator IXYZ 
+Pauli operator IXZI 
+Pauli operator IXZX 
+Pauli operator IXZY 
+Pauli operator IXZZ 
+Pauli operator IYII 
+Pauli operator IYIX 
+Pauli operator IYIY 
+Pauli operator IYIZ 
+Pauli operator IYXI 
+Pauli operator IYXX 
+Pauli operator IYXY 
+Pauli operator IYXZ 
+Pauli operator IYYI 
+Pauli operator IYYX 
+Pauli operator IYYY 
+Pauli operator IYYZ 
+Pauli operator IYZI 
+Pauli operator IYZX 
+Pauli operator IYZY 
+Pauli operator IYZZ 
+Pauli operator IZII 
+Pauli operator IZIX 
+Pauli operator IZIY 
+Pauli operator IZIZ 
+Pauli operator IZXI 
+Pauli operator IZXX 
+Pauli operator IZXY 
+Pauli operator IZXZ 
+Pauli operator IZYI 
+Pauli operator IZYX 
+Pauli operator IZYY 
+Pauli operator IZYZ 
+Pauli operator IZZI 
+Pauli operator IZZX 
+Pauli operator IZZY 
+Pauli operator IZZZ 
+Pauli operator XIII 
+Pauli operator XIIX 
+Pauli operator XIIY 
+Pauli operator XIIZ 
+Pauli operator XIXI 
+Pauli operator XIXX 
+Pauli operator XIXY 
+Pauli operator XIXZ 
+Pauli operator XIYI 
+Pauli operator XIYX 
+Pauli operator XIYY 
+Pauli operator XIYZ 
+Pauli operator XIZI 
+Pauli operator XIZX 
+Pauli operator XIZY 
+Pauli operator XIZZ 
+Pauli operator XXII 
+Pauli operator XXIX 
+Pauli operator XXIY 
+Pauli operator XXIZ 
+Pauli operator XXXI 
+Pauli operator XXXX 
+Pauli operator XXXY 
+Pauli operator XXXZ 
+Pauli operator XXYI 
+Pauli operator XXYX 
+Pauli operator XXYY 
+Pauli operator XXYZ 
+Pauli operator XXZI 
+Pauli operator XXZX 
+Pauli operator XXZY 
+Pauli operator XXZZ 
+Pauli operator XYII 
+Pauli operator XYIX 
+Pauli operator XYIY 
+Pauli operator XYIZ 
+Pauli operator XYXI 
+Pauli operator XYXX 
+Pauli operator XYXY 
+Pauli operator XYXZ 
+Pauli operator XYYI 
+Pauli operator XYYX 
+Pauli operator XYYY 
+Pauli operator XYYZ 
+Pauli operator XYZI 
+Pauli operator XYZX 
+Pauli operator XYZY 
+Pauli operator XYZZ 
+Pauli operator XZII 
+Pauli operator XZIX 
+Pauli operator XZIY 
+Pauli operator XZIZ 
+Pauli operator XZXI 
+Pauli operator XZXX 
+Pauli operator XZXY 
+Pauli operator XZXZ 
+Pauli operator XZYI 
+Pauli operator XZYX 
+Pauli operator XZYY 
+Pauli operator XZYZ 
+Pauli operator XZZI 
+Pauli operator XZZX 
+Pauli operator XZZY 
+Pauli operator XZZZ 
+Pauli operator YIII 
+Pauli operator YIIX 
+Pauli operator YIIY 
+Pauli operator YIIZ 
+Pauli operator YIXI 
+Pauli operator YIXX 
+Pauli operator YIXY 
+Pauli operator YIXZ 
+Pauli operator YIYI 
+Pauli operator YIYX 
+Pauli operator YIYY 
+Pauli operator YIYZ 
+Pauli operator YIZI 
+Pauli operator YIZX 
+Pauli operator YIZY 
+Pauli operator YIZZ 
+Pauli operator YXII 
+Pauli operator YXIX 
+Pauli operator YXIY 
+Pauli operator YXIZ 
+Pauli operator YXXI 
+Pauli operator YXXX 
+Pauli operator YXXY 
+Pauli operator YXXZ 
+Pauli operator YXYI 
+Pauli operator YXYX 
+Pauli operator YXYY 
+Pauli operator YXYZ 
+Pauli operator YXZI 
+Pauli operator YXZX 
+Pauli operator YXZY 
+Pauli operator YXZZ 
+Pauli operator YYII 
+Pauli operator YYIX 
+Pauli operator YYIY 
+Pauli operator YYIZ 
+Pauli operator YYXI 
+Pauli operator YYXX 
+Pauli operator YYXY 
+Pauli operator YYXZ 
+Pauli operator YYYI 
+Pauli operator YYYX 
+Pauli operator YYYY 
+Pauli operator YYYZ 
+Pauli operator YYZI 
+Pauli operator YYZX 
+Pauli operator YYZY 
+Pauli operator YYZZ 
+Pauli operator YZII 
+Pauli operator YZIX 
+Pauli operator YZIY 
+Pauli operator YZIZ 
+Pauli operator YZXI 
+Pauli operator YZXX 
+Pauli operator YZXY 
+Pauli operator YZXZ 
+Pauli operator YZYI 
+Pauli operator YZYX 
+Pauli operator YZYY 
+Pauli operator YZYZ 
+Pauli operator YZZI 
+Pauli operator YZZX 
+Pauli operator YZZY 
+Pauli operator YZZZ 
+Pauli operator ZIII 
+Pauli operator ZIIX 
+Pauli operator ZIIY 
+Pauli operator ZIIZ 
+Pauli operator ZIXI 
+Pauli operator ZIXX 
+Pauli operator ZIXY 
+Pauli operator ZIXZ 
+Pauli operator ZIYI 
+Pauli operator ZIYX 
+Pauli operator ZIYY 
+Pauli operator ZIYZ 
+Pauli operator ZIZI 
+Pauli operator ZIZX 
+Pauli operator ZIZY 
+Pauli operator ZIZZ 
+Pauli operator ZXII 
+Pauli operator ZXIX 
+Pauli operator ZXIY 
+Pauli operator ZXIZ 
+Pauli operator ZXXI 
+Pauli operator ZXXX 
+Pauli operator ZXXY 
+Pauli operator ZXXZ 
+Pauli operator ZXYI 
+Pauli operator ZXYX 
+Pauli operator ZXYY 
+Pauli operator ZXYZ 
+Pauli operator ZXZI 
+Pauli operator ZXZX 
+Pauli operator ZXZY 
+Pauli operator ZXZZ 
+Pauli operator ZYII 
+Pauli operator ZYIX 
+Pauli operator ZYIY 
+Pauli operator ZYIZ 
+Pauli operator ZYXI 
+Pauli operator ZYXX 
+Pauli operator ZYXY 
+Pauli operator ZYXZ 
+Pauli operator ZYYI 
+Pauli operator ZYYX 
+Pauli operator ZYYY 
+Pauli operator ZYYZ 
+Pauli operator ZYZI 
+Pauli operator ZYZX 
+Pauli operator ZYZY 
+Pauli operator ZYZZ 
+Pauli operator ZZII 
+Pauli operator ZZIX 
+Pauli operator ZZIY 
+Pauli operator ZZIZ 
+Pauli operator ZZXI 
+Pauli operator ZZXX 
+Pauli operator ZZXY 
+Pauli operator ZZXZ 
+Pauli operator ZZYI 
+Pauli operator ZZYX 
+Pauli operator ZZYY 
+Pauli operator ZZYZ 
+Pauli operator ZZZI 
+Pauli operator ZZZX 
+Pauli operator ZZZY 
+Pauli operator ZZZZ 

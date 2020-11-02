@@ -1,0 +1,2844 @@
+
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots0' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq0         
+   0 6.2150333351e+04   0.00e+00  8.88e+01    1.000000e+00   1.000000e+00
+   5 6.8220987756e-01  -8.00e-02  8.88e-04    1.654379e+00  -2.947580e-03
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.68221
+rel. change during last iteration : -8.00184e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.584042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.341105
+p-value of the Chisq distribution (FIT_P)              : 0.710984
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 1.65438          +/- 0.3628       (21.93%)
+qqq0            = -0.00294758      +/- 0.006098     (206.9%)
+
+correlation matrix of the fit parameters:
+                m      qqq0   
+m               1.000 
+qqq0           -0.924  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots1' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots2' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots3' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots4' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots5' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq5
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq5         
+   0 2.8525010930e+04   0.00e+00  6.69e+01    1.000000e+00   1.000000e+00
+   5 1.6192847256e+00  -2.59e-01  6.69e-04    2.721513e+00   8.075018e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.61928
+rel. change during last iteration : -2.595e-06
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.899801
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.809642
+p-value of the Chisq distribution (FIT_P)              : 0.445017
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 2.72151          +/- 0.8524       (31.32%)
+qqq5            = 0.0807502        +/- 0.01406      (17.41%)
+
+correlation matrix of the fit parameters:
+                m      qqq5   
+m               1.000 
+qqq5           -0.941  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots6' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots7' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots8' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots9' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots10' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq10
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq10        
+   0 8.4861611214e+03   0.00e+00  5.05e+01    1.000000e+00   1.000000e+00
+   5 7.8680368258e+00  -1.81e-02  5.05e-04    2.309740e+00   3.362724e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 7.86804
+rel. change during last iteration : -1.81171e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.98344
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.93402
+p-value of the Chisq distribution (FIT_P)              : 0.0195649
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 2.30974          +/- 2.501        (108.3%)
+qqq10           = 0.336272         +/- 0.04003      (11.91%)
+
+correlation matrix of the fit parameters:
+                m      qqq10  
+m               1.000 
+qqq10          -0.938  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots11' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots12' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots13' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots14' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots15' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq15
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq15        
+   0 2.4995753769e+03   0.00e+00  4.75e+01    1.000000e+00   1.000000e+00
+   5 2.3669551509e+00  -3.79e-02  4.75e-04   -2.721659e-01   6.477669e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.36696
+rel. change during last iteration : -3.79064e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.08788
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.18348
+p-value of the Chisq distribution (FIT_P)              : 0.306212
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.272166        +/- 1.387        (509.6%)
+qqq15           = 0.647767         +/- 0.02304      (3.557%)
+
+correlation matrix of the fit parameters:
+                m      qqq15  
+m               1.000 
+qqq15          -0.936  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots16' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots17' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots18' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots19' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots20' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq20
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq20        
+   0 5.3322754431e+02   0.00e+00  4.77e+01    1.000000e+00   1.000000e+00
+   5 3.4152399518e+00  -3.07e-04  4.77e-04    1.154941e+00   8.270562e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 3.41524
+rel. change during last iteration : -3.06593e-09
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.30676
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.70762
+p-value of the Chisq distribution (FIT_P)              : 0.181297
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 1.15494          +/- 1.565        (135.5%)
+qqq20           = 0.827056         +/- 0.02606      (3.151%)
+
+correlation matrix of the fit parameters:
+                m      qqq20  
+m               1.000 
+qqq20          -0.928  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots21' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots22' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots23' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots24' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots25' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq25
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq25        
+   0 1.9572083917e+02   0.00e+00  4.94e+01    1.000000e+00   1.000000e+00
+   5 1.7966524054e+00  -2.39e-03  4.94e-04    7.020349e-01   9.048012e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.79665
+rel. change during last iteration : -2.39315e-08
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.947801
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.898326
+p-value of the Chisq distribution (FIT_P)              : 0.407251
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.702035         +/- 1.114        (158.7%)
+qqq25           = 0.904801         +/- 0.01818      (2.009%)
+
+correlation matrix of the fit parameters:
+                m      qqq25  
+m               1.000 
+qqq25          -0.928  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots26' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots27' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots28' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots29' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots30' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq30
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq30        
+   0 3.1650589015e+02   0.00e+00  4.50e+01    1.000000e+00   1.000000e+00
+   5 4.8611494167e-01  -3.25e-01  4.50e-04   -8.230321e-01   8.882363e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.486115
+rel. change during last iteration : -3.24526e-06
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.493009
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.243057
+p-value of the Chisq distribution (FIT_P)              : 0.784226
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.823032        +/- 0.6559       (79.7%)
+qqq30           = 0.888236         +/- 0.01062      (1.196%)
+
+correlation matrix of the fit parameters:
+                m      qqq30  
+m               1.000 
+qqq30          -0.931  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots31' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots32' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots33' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots34' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots35' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq35
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq35        
+   0 2.2462589568e+03   0.00e+00  5.09e+01    1.000000e+00   1.000000e+00
+   5 4.1893009548e+00  -1.96e-02  5.09e-04   -3.588615e-01   6.920321e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 4.1893
+rel. change during last iteration : -1.96274e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.44729
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.09465
+p-value of the Chisq distribution (FIT_P)              : 0.123113
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.358861        +/- 1.604        (447%)
+qqq35           = 0.692032         +/- 0.02663      (3.848%)
+
+correlation matrix of the fit parameters:
+                m      qqq35  
+m               1.000 
+qqq35          -0.926  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots36' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots37' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:20:59 2020
+
+
+FIT:    data read from './I_vs_shots38' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots39' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots40' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq40
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq40        
+   0 9.3402043861e+03   0.00e+00  5.70e+01    1.000000e+00   1.000000e+00
+   5 5.2144404229e+00  -6.50e-02  5.70e-04   -1.023300e+00   4.316113e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5.21444
+rel. change during last iteration : -6.49742e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.61469
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.60722
+p-value of the Chisq distribution (FIT_P)              : 0.0737393
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -1.0233          +/- 1.729        (168.9%)
+qqq40           = 0.431611         +/- 0.02853      (6.609%)
+
+correlation matrix of the fit parameters:
+                m      qqq40  
+m               1.000 
+qqq40          -0.936  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots41' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots42' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots43' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots44' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots45' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq45
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq45        
+   0 2.0673620440e+04   0.00e+00  6.01e+01    1.000000e+00   1.000000e+00
+   5 2.0440766026e+00  -1.50e-02  6.01e-04   -8.864172e-02   1.725702e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.04408
+rel. change during last iteration : -1.4992e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.01096
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.02204
+p-value of the Chisq distribution (FIT_P)              : 0.359861
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.0886417       +/- 0.8073       (910.7%)
+qqq45           = 0.17257          +/- 0.0152       (8.81%)
+
+correlation matrix of the fit parameters:
+                m      qqq45  
+m               1.000 
+qqq45          -0.920  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots46' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots47' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots48' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots49' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots50' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq50
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq50        
+   0 5.9382962117e+04   0.00e+00  8.68e+01    1.000000e+00   1.000000e+00
+   5 4.4989635025e-01  -7.84e-02  8.68e-04    1.464679e+00  -5.798619e-04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.449896
+rel. change during last iteration : -7.83516e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.474287
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.224948
+p-value of the Chisq distribution (FIT_P)              : 0.798558
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 1.46468          +/- 0.3177       (21.69%)
+qqq50           = -0.000579862     +/- 0.005647     (973.9%)
+
+correlation matrix of the fit parameters:
+                m      qqq50  
+m               1.000 
+qqq50          -0.940  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots51' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots52' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots53' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots54' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots55' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq55
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq55        
+   0 4.8231069488e+04   0.00e+00  7.96e+01    1.000000e+00   1.000000e+00
+   5 1.4323155141e+00  -1.09e-01  7.96e-04    2.020967e+00   8.324243e-03
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.43232
+rel. change during last iteration : -1.09218e-06
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.846261
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.716158
+p-value of the Chisq distribution (FIT_P)              : 0.488626
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 2.02097          +/- 0.6346       (31.4%)
+qqq55           = 0.00832424       +/- 0.01036      (124.5%)
+
+correlation matrix of the fit parameters:
+                m      qqq55  
+m               1.000 
+qqq55          -0.932  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots56' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots57' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots58' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots59' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots60' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq60
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq60        
+   0 1.4705441541e+04   0.00e+00  5.44e+01    1.000000e+00   1.000000e+00
+   5 3.8597349754e+00  -1.50e-01  5.44e-04    3.908683e+00   1.671125e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 3.85973
+rel. change during last iteration : -1.4992e-06
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.3892
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.92987
+p-value of the Chisq distribution (FIT_P)              : 0.145167
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 3.90868          +/- 1.522        (38.94%)
+qqq60           = 0.167112         +/- 0.02518      (15.07%)
+
+correlation matrix of the fit parameters:
+                m      qqq60  
+m               1.000 
+qqq60          -0.934  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots61' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots62' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots63' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots64' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots65' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq65
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq65        
+   0 5.2539327738e+03   0.00e+00  5.08e+01    1.000000e+00   1.000000e+00
+   5 1.6669447385e+00  -8.34e-02  5.08e-04   -6.187870e-01   5.207555e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.66694
+rel. change during last iteration : -8.33539e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.912947
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.833472
+p-value of the Chisq distribution (FIT_P)              : 0.434538
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.618787        +/- 1.051        (169.8%)
+qqq65           = 0.520755         +/- 0.01758      (3.375%)
+
+correlation matrix of the fit parameters:
+                m      qqq65  
+m               1.000 
+qqq65          -0.932  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots66' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots67' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots68' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots69' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots70' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq70
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq70        
+   0 9.7222463921e+02   0.00e+00  4.70e+01    1.000000e+00   1.000000e+00
+   6 9.0888809739e-02  -1.95e-09  4.70e-05   -1.523420e+00   8.047098e-01
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.0908888
+rel. change during last iteration : -1.95443e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.213177
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0454444
+p-value of the Chisq distribution (FIT_P)              : 0.955573
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -1.52342         +/- 0.268        (17.59%)
+qqq70           = 0.80471          +/- 0.004422     (0.5495%)
+
+correlation matrix of the fit parameters:
+                m      qqq70  
+m               1.000 
+qqq70          -0.932  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots71' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots72' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots73' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots74' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots75' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq75
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq75        
+   0 2.4879032969e+02   0.00e+00  4.52e+01    1.000000e+00   1.000000e+00
+   5 1.2549618021e+00  -1.55e-02  4.52e-04    3.664668e-01   8.864527e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.25496
+rel. change during last iteration : -1.54779e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.792137
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.627481
+p-value of the Chisq distribution (FIT_P)              : 0.533935
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.366467         +/- 1.053        (287.3%)
+qqq75           = 0.886453         +/- 0.01696      (1.913%)
+
+correlation matrix of the fit parameters:
+                m      qqq75  
+m               1.000 
+qqq75          -0.931  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots76' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots77' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots78' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots79' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots80' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq80
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq80        
+   0 1.1931633609e+02   0.00e+00  4.71e+01    1.000000e+00   1.000000e+00
+   5 3.7839879111e+00  -3.17e-01  4.71e-04   -3.368954e+00   9.907379e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 3.78399
+rel. change during last iteration : -3.17343e-06
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.3755
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.89199
+p-value of the Chisq distribution (FIT_P)              : 0.150771
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -3.36895         +/- 1.819        (53.99%)
+qqq80           = 0.990738         +/- 0.02998      (3.026%)
+
+correlation matrix of the fit parameters:
+                m      qqq80  
+m               1.000 
+qqq80          -0.939  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:00 2020
+
+
+FIT:    data read from './I_vs_shots81' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots82' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots83' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots84' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots85' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq85
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq85        
+   0 3.9148656981e+02   0.00e+00  4.26e+01    1.000000e+00   1.000000e+00
+   5 6.4660615369e-01  -2.48e-01  4.26e-04   -9.058553e-01   8.655792e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.646606
+rel. change during last iteration : -2.47633e-06
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.568597
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.323303
+p-value of the Chisq distribution (FIT_P)              : 0.723754
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.905855        +/- 0.8039       (88.74%)
+qqq85           = 0.865579         +/- 0.01315      (1.52%)
+
+correlation matrix of the fit parameters:
+                m      qqq85  
+m               1.000 
+qqq85          -0.934  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots86' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots87' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots88' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots89' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots90' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq90
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq90        
+   0 2.8057819912e+03   0.00e+00  4.85e+01    1.000000e+00   1.000000e+00
+   5 2.1260292958e+00  -7.49e-02  4.85e-04   -8.047396e-01   6.423487e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.12603
+rel. change during last iteration : -7.49453e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.03103
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.06301
+p-value of the Chisq distribution (FIT_P)              : 0.345413
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.80474         +/- 1.243        (154.4%)
+qqq90           = 0.642349         +/- 0.02059      (3.205%)
+
+correlation matrix of the fit parameters:
+                m      qqq90  
+m               1.000 
+qqq90          -0.931  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots91' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots92' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots93' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots94' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots95' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq95
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq95        
+   0 1.2021375012e+04   0.00e+00  6.15e+01    1.000000e+00   1.000000e+00
+   6 2.9644881618e-01  -1.57e-09  6.15e-05   -5.669780e-01   3.934209e-01
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.296449
+rel. change during last iteration : -1.57293e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.384999
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.148224
+p-value of the Chisq distribution (FIT_P)              : 0.862238
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.566978        +/- 0.4018       (70.87%)
+qqq95           = 0.393421         +/- 0.006421     (1.632%)
+
+correlation matrix of the fit parameters:
+                m      qqq95  
+m               1.000 
+qqq95          -0.939  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots96' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots97' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots98' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots99' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots100' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq100
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq100       
+   0 3.6219789982e+04   0.00e+00  7.48e+01    1.000000e+00   1.000000e+00
+   5 1.3149482306e+00  -3.71e-05  7.48e-04    1.005856e+00   1.003089e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.31495
+rel. change during last iteration : -3.706e-10
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.810848
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.657474
+p-value of the Chisq distribution (FIT_P)              : 0.518158
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 1.00586          +/- 0.6381       (63.44%)
+qqq100          = 0.100309         +/- 0.01081      (10.78%)
+
+correlation matrix of the fit parameters:
+                m      qqq100 
+m               1.000 
+qqq100         -0.935  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots101' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots102' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots103' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots104' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots105' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq105
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq105       
+   0 4.4827262363e+04   0.00e+00  7.62e+01    1.000000e+00   1.000000e+00
+   5 3.1192723154e+00  -5.59e-02  7.62e-04    1.989115e+00   2.382062e-03
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 3.11927
+rel. change during last iteration : -5.58754e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.24885
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.55964
+p-value of the Chisq distribution (FIT_P)              : 0.210213
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 1.98912          +/- 1.029        (51.72%)
+qqq105          = 0.00238206       +/- 0.01696      (712%)
+
+correlation matrix of the fit parameters:
+                m      qqq105 
+m               1.000 
+qqq105         -0.940  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots106' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots107' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots108' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots109' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots110' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq110
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq110       
+   0 2.4576354812e+04   0.00e+00  6.45e+01    1.000000e+00   1.000000e+00
+   5 2.9362337202e+00  -2.22e-05  6.45e-04    9.554512e-01   1.409297e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.93623
+rel. change during last iteration : -2.22183e-10
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.21166
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.46812
+p-value of the Chisq distribution (FIT_P)              : 0.230359
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.955451         +/- 1.059        (110.8%)
+qqq110          = 0.14093          +/- 0.01886      (13.38%)
+
+correlation matrix of the fit parameters:
+                m      qqq110 
+m               1.000 
+qqq110         -0.936  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots111' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots112' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots113' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots114' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots115' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq115
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq115       
+   0 7.4031395472e+03   0.00e+00  4.98e+01    1.000000e+00   1.000000e+00
+   5 2.4319587233e+00  -2.97e-02  4.98e-04   -1.466969e-01   4.069742e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.43196
+rel. change during last iteration : -2.96605e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.10271
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.21598
+p-value of the Chisq distribution (FIT_P)              : 0.29642
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.146697        +/- 1.316        (897.3%)
+qqq115          = 0.406974         +/- 0.02238      (5.499%)
+
+correlation matrix of the fit parameters:
+                m      qqq115 
+m               1.000 
+qqq115         -0.937  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots116' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots117' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots118' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots119' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots120' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq120
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq120       
+   0 2.2382367832e+03   0.00e+00  4.89e+01    1.000000e+00   1.000000e+00
+   5 1.7375823218e+00  -1.10e-01  4.89e-04   -1.148771e+00   6.909034e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.73758
+rel. change during last iteration : -1.0994e-06
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.93209
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.868791
+p-value of the Chisq distribution (FIT_P)              : 0.419458
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -1.14877         +/- 1.077        (93.74%)
+qqq120          = 0.690903         +/- 0.01777      (2.572%)
+
+correlation matrix of the fit parameters:
+                m      qqq120 
+m               1.000 
+qqq120         -0.925  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots121' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots122' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots123' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:01 2020
+
+
+FIT:    data read from './I_vs_shots124' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots125' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq125
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq125       
+   0 5.6566111981e+02   0.00e+00  4.59e+01    1.000000e+00   1.000000e+00
+   5 4.7541532243e-01  -1.56e-01  4.59e-04   -3.000174e-01   8.371342e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.475415
+rel. change during last iteration : -1.55552e-06
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.487553
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.237708
+p-value of the Chisq distribution (FIT_P)              : 0.788433
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.300017        +/- 0.6217       (207.2%)
+qqq125          = 0.837134         +/- 0.01036      (1.238%)
+
+correlation matrix of the fit parameters:
+                m      qqq125 
+m               1.000 
+qqq125         -0.932  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots126' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots127' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots128' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots129' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots130' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq130
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq130       
+   0 1.0206021803e+02   0.00e+00  4.44e+01    1.000000e+00   1.000000e+00
+   5 3.4434571915e-01  -1.56e-01  4.44e-04   -7.000066e-02   9.368058e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.344346
+rel. change during last iteration : -1.55529e-06
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.414937
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.172173
+p-value of the Chisq distribution (FIT_P)              : 0.841834
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.0700007       +/- 0.5602       (800.2%)
+qqq130          = 0.936806         +/- 0.009388     (1.002%)
+
+correlation matrix of the fit parameters:
+                m      qqq130 
+m               1.000 
+qqq130         -0.936  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots131' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots132' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots133' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots134' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots135' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq135
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq135       
+   0 3.0738374844e+02   0.00e+00  4.33e+01    1.000000e+00   1.000000e+00
+   5 1.6591723789e-01  -8.07e-01  4.33e-04   -1.396195e+00   8.963752e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.165917
+rel. change during last iteration : -8.0689e-06
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.288025
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0829586
+p-value of the Chisq distribution (FIT_P)              : 0.920389
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -1.3962          +/- 0.3524       (25.24%)
+qqq135          = 0.896375         +/- 0.006158     (0.687%)
+
+correlation matrix of the fit parameters:
+                m      qqq135 
+m               1.000 
+qqq135         -0.924  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots136' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots137' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots138' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots139' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots140' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq140
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq140       
+   0 2.1310288121e+03   0.00e+00  4.74e+01    1.000000e+00   1.000000e+00
+   5 2.2138168859e+00  -3.69e-01  4.74e-04   -3.148518e+00   7.215350e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.21382
+rel. change during last iteration : -3.6929e-06
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.0521
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.10691
+p-value of the Chisq distribution (FIT_P)              : 0.330579
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -3.14852         +/- 1.303        (41.37%)
+qqq140          = 0.721535         +/- 0.02181      (3.023%)
+
+correlation matrix of the fit parameters:
+                m      qqq140 
+m               1.000 
+qqq140         -0.933  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots141' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots142' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots143' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots144' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots145' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq145
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq145       
+   0 6.4247444957e+03   0.00e+00  4.72e+01    1.000000e+00   1.000000e+00
+   5 1.2060049305e+00  -4.71e-02  4.72e-04   -3.926229e-01   4.221227e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.206
+rel. change during last iteration : -4.71425e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.776532
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.603002
+p-value of the Chisq distribution (FIT_P)              : 0.547166
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.392623        +/- 0.8831       (224.9%)
+qqq145          = 0.422123         +/- 0.01558      (3.691%)
+
+correlation matrix of the fit parameters:
+                m      qqq145 
+m               1.000 
+qqq145         -0.928  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots146' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots147' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots148' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots149' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots150' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq150
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq150       
+   0 1.7843890446e+04   0.00e+00  5.70e+01    1.000000e+00   1.000000e+00
+   5 4.0081162020e+00  -6.95e-02  5.70e-04   -1.482056e+00   2.136387e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 4.00812
+rel. change during last iteration : -6.9515e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.41565
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.00406
+p-value of the Chisq distribution (FIT_P)              : 0.134787
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -1.48206         +/- 1.346        (90.82%)
+qqq150          = 0.213639         +/- 0.02445      (11.45%)
+
+correlation matrix of the fit parameters:
+                m      qqq150 
+m               1.000 
+qqq150         -0.933  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots151' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots152' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots153' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots154' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots155' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq155
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq155       
+   0 6.0577367078e+04   0.00e+00  8.83e+01    1.000000e+00   1.000000e+00
+   5 3.7989990706e-01  -3.72e-01  8.83e-04    1.813782e+00   2.264659e-03
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.3799
+rel. change during last iteration : -3.71726e-06
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.435832
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.18995
+p-value of the Chisq distribution (FIT_P)              : 0.827001
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 1.81378          +/- 0.3027       (16.69%)
+qqq155          = 0.00226466       +/- 0.00475      (209.7%)
+
+correlation matrix of the fit parameters:
+                m      qqq155 
+m               1.000 
+qqq155         -0.930  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots156' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots157' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots158' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots159' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots160' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq160
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq160       
+   0 3.4241153228e+04   0.00e+00  6.95e+01    1.000000e+00   1.000000e+00
+   5 1.0109292898e+00  -1.74e-02  6.95e-04    1.465987e+00   5.058582e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.01093
+rel. change during last iteration : -1.74254e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.71096
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.505465
+p-value of the Chisq distribution (FIT_P)              : 0.603225
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 1.46599          +/- 0.567        (38.68%)
+qqq160          = 0.0505858        +/- 0.009733     (19.24%)
+
+correlation matrix of the fit parameters:
+                m      qqq160 
+m               1.000 
+qqq160         -0.928  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots161' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots162' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots163' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots164' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots165' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq165
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq165       
+   0 1.1641434739e+04   0.00e+00  5.19e+01    1.000000e+00   1.000000e+00
+   5 9.8716826724e-01  -3.40e-02  5.19e-04    1.575768e-01   2.792239e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.987168
+rel. change during last iteration : -3.39945e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.702555
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.493584
+p-value of the Chisq distribution (FIT_P)              : 0.610435
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.157577         +/- 0.7688       (487.9%)
+qqq165          = 0.279224         +/- 0.01332      (4.77%)
+
+correlation matrix of the fit parameters:
+                m      qqq165 
+m               1.000 
+qqq165         -0.933  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots166' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots167' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots168' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:02 2020
+
+
+FIT:    data read from './I_vs_shots169' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots170' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq170
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq170       
+   0 3.3832189325e+03   0.00e+00  4.76e+01    1.000000e+00   1.000000e+00
+   5 6.0762601020e-01  -3.28e-02  4.76e-04    4.297214e-01   5.764420e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.607626
+rel. change during last iteration : -3.27655e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.551192
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.303813
+p-value of the Chisq distribution (FIT_P)              : 0.737999
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.429721         +/- 0.7173       (166.9%)
+qqq170          = 0.576442         +/- 0.01184      (2.053%)
+
+correlation matrix of the fit parameters:
+                m      qqq170 
+m               1.000 
+qqq170         -0.938  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots171' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots172' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots173' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots174' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots175' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq175
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq175       
+   0 1.1607470535e+03   0.00e+00  4.44e+01    1.000000e+00   1.000000e+00
+   5 3.0974045341e+00  -1.31e-03  4.44e-04    1.277576e+00   7.250060e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 3.0974
+rel. change during last iteration : -1.30626e-08
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.24447
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.5487
+p-value of the Chisq distribution (FIT_P)              : 0.212524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 1.27758          +/- 1.709        (133.7%)
+qqq175          = 0.725006         +/- 0.02812      (3.879%)
+
+correlation matrix of the fit parameters:
+                m      qqq175 
+m               1.000 
+qqq175         -0.936  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots176' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots177' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots178' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots179' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots180' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq180
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq180       
+   0 2.0576987054e+02   0.00e+00  4.52e+01    1.000000e+00   1.000000e+00
+   5 3.3332080253e-02  -8.74e-01  4.52e-04    7.011351e-02   9.026942e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.0333321
+rel. change during last iteration : -8.73778e-06
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.129097
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.016666
+p-value of the Chisq distribution (FIT_P)              : 0.983472
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.0701135        +/- 0.1599       (228.1%)
+qqq180          = 0.902694         +/- 0.002749     (0.3045%)
+
+correlation matrix of the fit parameters:
+                m      qqq180 
+m               1.000 
+qqq180         -0.930  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots181' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots182' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots183' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots184' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots185' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq185
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq185       
+   0 1.3091709052e+02   0.00e+00  4.80e+01    1.000000e+00   1.000000e+00
+   6 1.6694518123e-01  -8.65e-10  4.80e-05   -1.386623e+00   9.540407e-01
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.166945
+rel. change during last iteration : -8.64529e-15
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.288916
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0834726
+p-value of the Chisq distribution (FIT_P)              : 0.919916
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -1.38662         +/- 0.3474       (25.05%)
+qqq185          = 0.954041         +/- 0.005797     (0.6076%)
+
+correlation matrix of the fit parameters:
+                m      qqq185 
+m               1.000 
+qqq185         -0.930  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots186' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots187' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots188' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots189' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots190' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq190
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq190       
+   0 5.9864822911e+02   0.00e+00  4.44e+01    1.000000e+00   1.000000e+00
+   5 1.1854314931e+01  -6.93e-02  4.44e-04   -3.521693e+00   8.813842e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 11.8543
+rel. change during last iteration : -6.93293e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.43458
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.92716
+p-value of the Chisq distribution (FIT_P)              : 0.00266605
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -3.52169         +/- 3.194        (90.68%)
+qqq190          = 0.881384         +/- 0.05464      (6.199%)
+
+correlation matrix of the fit parameters:
+                m      qqq190 
+m               1.000 
+qqq190         -0.935  1.000 
+
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots191' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots192' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots193' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots194' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+BREAK: No data to fit
+
+*******************************************************************************
+Fri Aug  7 19:21:03 2020
+
+
+FIT:    data read from './I_vs_shots195' u (1.0/sqrt($1)):2:3
+        format = x:z:s
+        x range restricted to [* : 0.0400000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x)=m*x+qqq195
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             qqq195       
+   0 3.1103378677e+03   0.00e+00  5.00e+01    1.000000e+00   1.000000e+00
+   5 2.1838359349e+00  -9.58e-02  5.00e-04   -1.278409e+00   6.434158e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.18384
+rel. change during last iteration : -9.58308e-07
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.04495
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.09192
+p-value of the Chisq distribution (FIT_P)              : 0.335572
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -1.27841         +/- 1.164        (91.05%)
+qqq195          = 0.643416         +/- 0.02052      (3.189%)
+
+correlation matrix of the fit parameters:
+                m      qqq195 
+m               1.000 
+qqq195         -0.933  1.000 
